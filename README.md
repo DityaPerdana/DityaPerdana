@@ -25,15 +25,3 @@ Building the front-end for NyctOwl Studio's latest project<br>Looking for exciti
 [![](https://visitcount.itsvg.in/api?id=DityaPerdana&icon=6&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <!-- Snake Game -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
-  </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-</div>
